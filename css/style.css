@@ -47,6 +47,7 @@
     font-weight: 500;
     text-transform: uppercase;
     transition: .5s;
+    /* color: #16d0fe; */
 }
 
 .btn.btn-primary,
@@ -159,7 +160,7 @@
 }
 
 .hero-header img {
-    animation: imgRotate 50s linear infinite;
+    animation: imgRotate 1000s linear infinite;
 }
 
 @keyframes imgRotate { 
